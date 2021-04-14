@@ -1,0 +1,4 @@
+- [ ] I understand that a pull request does not guarantee addition to the ZilStream token list.
+- [ ] I will not ping the ZilStream team about this listing request.
+- [ ] I have added my token to the (ViewBlock Meta Repo)[https://github.com/Ashlar/cryptometa].
+- [ ] I have added smart contracts and team wallet addresses (or any other address containing locked funds) to `supply_skip_addresses`.
