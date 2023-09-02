@@ -1,0 +1,10 @@
+{
+    "symbol": "ZEL",
+    "address": "zil1aklexvfaur8yct2jesmhnq62sjwu5mc4w79ter",
+    "max_supply": 10000000,
+    "supply_skip_addresses": [
+      "zil1ndryupj0fua28scwskn0sx3snvs8085t7hkasq",
+   
+    ]
+  }
+]
